@@ -3,6 +3,7 @@
 he/him
 
 sean dot heintz at google's mail domain
+
 https://www.senney.net/
 
 Dedicated, life-long learner with a passion for building scalable, intuitive systems and baking bread. I'm currently based out of Calgary, Alberta and work for a SaaS company called Replicon.
