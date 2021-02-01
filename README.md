@@ -10,10 +10,11 @@ Dedicated, life-long learner with a passion for building scalable, intuitive sys
 
 I enjoy working with a team of diverse, talented, and interesting individuals from many backgrounds. Be it developers who have been in the industry for years, or brand new programmers who are just learning the basics; Every member of a team brings valuable perspectives that can lead to personal and professional development.
 
-    [2016/12 - *] - Replicon - Full Stack Software Engineer
-
+    [2021/02 - *] - Neo Financial - Software Developer
+    
 ### Things I was
 
+    [2016/12 - 2021/01] - Replicon - Full Stack Software Engineer
     [2014/05 - 2016/11] - Hitachi ID Systems Inc - Solutions Architect
     [2010/08 - 2014/04] - University of Calgary - B.Sc. Computer Science
 
