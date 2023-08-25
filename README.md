@@ -10,7 +10,7 @@ Dedicated, life-long learner with a passion for building scalable, intuitive sys
 
 I enjoy working with a team of diverse, talented, and interesting individuals from many backgrounds. Be it developers who have been in the industry for years, or brand new programmers who are just learning the basics; Every member of a team brings valuable perspectives that can lead to personal and professional development.
 
-    [2021/02 - *] - Neo Financial - Senior Software Developer & Team Lead
+    [2021/02 - *] - Neo Financial - Princial Software Developer, Card Processing
     
 ### Things I was
 
