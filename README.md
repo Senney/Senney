@@ -6,14 +6,15 @@ sean dot heintz at google's mail domain
 
 https://www.senney.net/
 
-Dedicated, life-long learner with a passion for building scalable, intuitive systems and baking bread. I'm currently based out of Calgary, Alberta and work for a banking startup called Neo Financial.
+Dedicated, life-long learner with a passion for building scalable, intuitive systems and baking bread. I'm currently based out of Calgary, Alberta.
 
 I enjoy working with a team of diverse, talented, and interesting individuals from many backgrounds. Be it developers who have been in the industry for years, or brand new programmers who are just learning the basics; Every member of a team brings valuable perspectives that can lead to personal and professional development.
 
-    [2021/02 - *] - Neo Financial - Principal Software Developer, Card Processing
+    [2024/10 - *] - Clio - Staff Software Engineer, Platform
     
 ### Things I was
 
+    [2021/02 - 2024/04] - Neo Financial - Principal Software Developer, Card Processing
     [2016/12 - 2021/01] - Replicon - Senior Full Stack Software Engineer
     [2014/05 - 2016/11] - Hitachi ID Systems Inc - Solutions Architect
     [2010/08 - 2014/04] - University of Calgary - B.Sc. Computer Science
